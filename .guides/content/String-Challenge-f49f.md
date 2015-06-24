@@ -7,7 +7,7 @@ If you look at the code on the left, we have two issues to sort out.
 
 When it looks right, press the button below.
 
-{Check It!! | custom}(js-14)
+{Check It!! | custom}(py-14)
 
 |||
 
@@ -15,7 +15,7 @@ When it looks right, press the button below.
 |||guidance
 ## Solution
 
-```javascript
+```python
 str1 = 'Mary'
 str2 = 'had'
 str3 = 'a'

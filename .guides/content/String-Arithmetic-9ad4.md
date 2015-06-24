@@ -1,6 +1,6 @@
 Remember how we did number arithmetic?
 
-```javascript
+```python
 myVariable = 100
 myOtherVariable = myVariable + 10
 ```
@@ -17,7 +17,7 @@ Play with the code on the left and do your own experiments.
 ## Another example
 You can use as many `+` as you like. Look at this example.
 
-```javascript
+```python
 string1 = 'A'
 string2 = 'B'
 string3 = 'C'

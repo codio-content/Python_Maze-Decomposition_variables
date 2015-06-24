@@ -11,7 +11,7 @@ This time we want you to do the following
 
 Test it all out and press the button below once you have it working.
 
-{Check it!!|custom}(js-5)
+{Check it!!|custom}(py-5)
 
 |||
 
@@ -19,7 +19,7 @@ Test it all out and press the button below once you have it working.
 |||guidance
 ## Solution
 
-```javascript
+```python
 width = 10
 height = 8
 createEmptyMaze(width, height)

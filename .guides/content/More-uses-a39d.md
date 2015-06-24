@@ -11,7 +11,7 @@ Use this variable as the argument in each of the following functions to generate
 
 Add a player as well using `addPlayer()`
 
-{Check it!!|custom}(js-4)
+{Check it!!|custom}(py-4)
 
 |||
 
@@ -19,7 +19,7 @@ Add a player as well using `addPlayer()`
 |||guidance
 ## Solution
 
-```javascript
+```python
 num = 3
 createEmptyMaze()
 addRandomMonsters(num)
