@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>One</title>
+
+    <% include include/game.ejs %>      
+    
+    <script>
+
+      document.addEventListener('DOMContentLoaded', function() {
+
+        // Load the user blockly script
+      
+        $.getScript( '/blockly/b-1/blockly-gen.js' )
+          .done(function( script, textStatus ) {
+            createEmptyMaze(width, height)  
+          })
+          .fail(function( jqxhr, settings, exception ) {
+            console.log('failed to load blockly gen js file')
+        });        
+        
+      })
+
+            
+    </script>
+    
+  </head>
+  <body>
+    <div id="game"></div>
+  </body>
+</html>

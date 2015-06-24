@@ -1,0 +1,509 @@
+{
+ "sections": [
+  {
+   "id": "b9d694e8-9ed0-4657-2f13-7f84efabe08e",
+   "title": "Variables",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Variables-b9d6.md"
+  },
+  {
+   "id": "92f3d431-bb7b-6b3a-2280-f080607de5e0",
+   "title": "Definition of a Variable",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Definition-of-a-Variable-92f3.md"
+  },
+  {
+   "id": "9c09a5b8-affd-fa4d-cb80-b5dc84843ac0",
+   "title": "Sizing our Maze",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/blockly/b-1/b-1.blockly",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/b-1",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sizing-our-Maze-9c09.md"
+  },
+  {
+   "id": "bae91d9c-9474-89fd-a18d-1e8c949afe93",
+   "title": "Challenge",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-bae9.md"
+  },
+  {
+   "id": "2f0f7ca7-46b4-bba3-457d-3d55aba4a957",
+   "title": "Doing it in Javascript",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-1.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-1",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Doing-it-in-Javascript-2f0f.md"
+  },
+  {
+   "id": "d8646bd9-e8c6-46bf-e01c-77ee9cc3fb7",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-1a.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-1a",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-d864.md"
+  },
+  {
+   "id": "8ffd2e65-b503-a60d-1962-e1cb8e35d6e4",
+   "title": "The same with variables",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-2.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-2",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-same-with-variables-8ffd.md"
+  },
+  {
+   "id": "5378eb91-f544-3c06-b20e-668728fe2d59",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "public/js/js-3.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-3",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-5378.md"
+  },
+  {
+   "id": "a39d406e-f047-ba3b-6974-3b14f79bd6da",
+   "title": "More uses",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-4.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-4",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/More-uses-a39d.md"
+  },
+  {
+   "id": "575b7731-b516-f43e-1875-c378d44aa992",
+   "title": "Several variables challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-5.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-5",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Several-variables-challenge-575b.md"
+  },
+  {
+   "id": "c10f4149-387b-f8d0-d8e9-2e91e3fba4a9",
+   "title": "One variable for all things",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-5a.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-5a",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/One-variable-for-all-things-c10f.md"
+  },
+  {
+   "id": "ddd5cf7e-d92b-4b8f-cd31-a5d744d5ff26",
+   "title": "Syntax Errors",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-5b.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-5b",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Syntax-Errors-ddd5.md"
+  },
+  {
+   "id": "bd69434e-73a0-8144-4307-da92e92c7509",
+   "title": "Variable arithmetic",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-6.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-6",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Variable-arithmetic-bd69.md"
+  },
+  {
+   "id": "92affa18-2eaa-cdda-1c82-47e69fc7384",
+   "title": "Subtraction",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-7.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-7",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Subtraction-92af.md"
+  },
+  {
+   "id": "5792bc62-d633-2fbd-6c24-5c9a3ec50e2",
+   "title": "Multiplication",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-8.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-8",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Multiplication-5792.md"
+  },
+  {
+   "id": "63ad3792-e828-c079-9dc-997cddfe15d",
+   "title": "Arithmetic in the function call",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-9.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-9",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Arithmetic-in-the-function-call-63ad.md"
+  },
+  {
+   "id": "566894a7-a187-7ae7-25b2-4cf3075716",
+   "title": "Strings",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-10.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-10",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Strings-5668.md"
+  },
+  {
+   "id": "3a479373-dd72-7b8c-9b14-3c95f0b09c4a",
+   "title": "Game Messages",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Game-Messages-3a47.md"
+  },
+  {
+   "id": "a0ce9115-4143-84b4-4f4c-ff2a35dc92bb",
+   "title": "Using a variable",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-11.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-11",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-a-variable-a0ce.md"
+  },
+  {
+   "id": "9ad4a556-b98c-2fa4-8384-a7d3f2d896fb",
+   "title": "String Arithmetic",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-12.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-12",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/String-Arithmetic-9ad4.md"
+  },
+  {
+   "id": "25134b12-37ef-7759-ada1-c2035f0ee164",
+   "title": "More string arithmetic",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-13.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-13",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/More-string-arithmetic-2513.md"
+  },
+  {
+   "id": "f49fd00f-c3be-48e1-c88-a67dbb2888fd",
+   "title": "String Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-14.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-14",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/String-Challenge-f49f.md"
+  },
+  {
+   "id": "ea7cb52a-948e-dadb-14f8-ec682d9934e",
+   "title": "Joining a number and a string",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-15.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-15",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Joining-a-number-and-a-string-ea7c.md"
+  },
+  {
+   "id": "1c0acd22-7852-57ab-8e94-d3b6e36dc114",
+   "title": "All done",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/All-done-1c0a.md"
+  }
+ ],
+ "theme": "paper",
+ "scripts": [
+  "https://code.jquery.com/jquery-2.1.4.min.js",
+  "https://mazegame.codio.com/game.js",
+  ".guides/test_static.js"
+ ]
+}
