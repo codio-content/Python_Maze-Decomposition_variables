@@ -1,11 +1,5 @@
 
-|||challenge
-On the left hand side, we have some code but the maze is not initialising properly.
-
-Your job is to fix the code on the left so the maze displays correctly. You must use variables and not insert values into the function call arguments.
-
-{Check it!!|custom}(py-3)
-|||
+{Check It!|assessment}(test-1961677467)
 
 |||guidance
 ## Solution
@@ -13,3 +7,5 @@ The problem here is that the command `createEmptyMaze(width, height)` is using a
 
 - You either have to change `mazeWidth = 10` to `width = 10`
 - Or change `createEmptyMaze(width, height)` to `createEmptyMaze(mazeWidth, height)`
+
+|||
